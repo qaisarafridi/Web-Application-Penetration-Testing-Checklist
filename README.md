@@ -594,6 +594,6 @@
         - [ ]  Test for directory traversal
         - [ ]  Web services documentation disclosure Enumeration of services, data types, input types boundaries and limits
 
-## **Created by: Tushar Verma(e11i0t_4lders0n)**
+## **Created by: Muhammad Qaisar**
 
-**Contact Me: [LinkedIn](http://www.linkedin.com/in/tushars25) ,[Twitter](https://twitter.com/e11i0t_4lders0n)**
+**Contact Me: [Twitter](https://twitter.com/mrhidden04)**
